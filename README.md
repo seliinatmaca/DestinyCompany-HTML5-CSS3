@@ -1,6 +1,6 @@
 <h1> Destiny-HTML5/CSS3 </h1>
 
-In this project, I have developed a multi-page professional company introduction web application using HTML, CSS and JavaScript. The project was meticulously designed to present our company in a modern and impactful manner to visitors.
+In this project, I have developed a multi-page professional company introduction web application using HTML5, CSS3, and JavaScript. The project was meticulously designed to present our company in a modern and impactful manner to visitors, with a strong emphasis on responsive design for optimal usability across all devices, from the smallest to the largest screens.
 
 Within the application, we showcase the services offered by our company, introduce our team members, and provide essential contact information. Each page is enriched with a user-friendly interface and visual elements to effectively present information in an engaging way.
 
