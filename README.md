@@ -11,7 +11,7 @@ It was coded using Html5, Css3 and JavaScript technologies.
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [here]( ).
+You can view a live demo of this project [here](https://destinyht.netlify.app ).
 
 <h2> Screenshot </h2>
 
